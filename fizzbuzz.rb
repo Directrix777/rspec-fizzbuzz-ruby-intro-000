@@ -9,3 +9,4 @@ def fizzbuzz(num)
     string += "buzz"
   end
   string
+end
